@@ -8,5 +8,7 @@ To build executables or dynamic libraries or shared librarie the same Makefile i
 USAGE:
 
 cd myprog
+
 make
+
 make run
